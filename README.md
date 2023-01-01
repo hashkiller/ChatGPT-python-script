@@ -12,6 +12,4 @@ Contribuer
 Nous sommes heureux d'accepter les contributions de la communauté ! Si vous avez créé un script généré par une intelligence artificielle que vous souhaitez partager avec d'autres développeurs, n'hésitez pas à soumettre une pull request. Nous nous réservons le droit de refuser toute pull request qui ne respecte pas nos standards de qualité ou qui n'est pas en adéquation avec le contenu du repository.
 Remerciements
 
-Nous tenons à remercier les équipes de développement de TensorFlow et de PyTorch pour leurs efforts dans la création de ces bibliothèques puissantes. Nous sommes également reconnaissants envers l'équipe de développement de l'intelligence artificielle qui a entraîné le modèle de langage utilisé pour générer ces scripts. Leur travail remarquable a rendu ce repository possible.
-
 Je vous suggère de personnaliser ce readme en fonction des scripts que vous publiez et de votre propre projet. Ce n'est qu'un exemple de ce à quoi pourrait ressembler un readme pour ce type de repository. J'espère que cela vous aidera dans vos projets !
