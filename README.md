@@ -21,5 +21,6 @@ Si vous avez créé un code intéressant avec l'aide d'une IA et que vous souhai
 
 Tous les codes de ce référentiel sont sous licence [MIT](https://opensource.org/licenses/MIT), ce qui signifie que vous pouvez les utiliser librement à des fins personnelles ou commerciales. Cependant, n'oubliez pas de respecter les licences des éventuelles bibliothèques ou API utilisées dans les codes.
 
+-------
 
 Ce readme.md a été généré par une IA aussi !
