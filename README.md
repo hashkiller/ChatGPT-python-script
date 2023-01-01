@@ -3,15 +3,6 @@ Introduction
 Ce repository contient des scripts Python générés par une intelligence artificielle pour réaliser diverses tâches. Chaque script a été généré en utilisant un modèle de langage entraîné sur de grandes quantités de données et est conçu pour être facile à utiliser et efficace.
 Prérequis
 
-Avant de pouvoir utiliser ces scripts, vous devez disposer des bibliothèques Python suivantes :
-
-    TensorFlow
-    PyTorch
-
-Vous pouvez installer ces bibliothèques en utilisant pip :
-
-pip install tensorflow
-pip install pytorch
 
 Utilisation
 
