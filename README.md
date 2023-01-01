@@ -6,7 +6,7 @@ Bienvenue dans ce référentiel qui publie des petits codes générés par des I
 
 - Des codes courts et simples qui résolvent des problèmes spécifiques ou qui montrent comment utiliser certaines API ou bibliothèques.
 - Des exemples de codes générés par des IA pour vous montrer ce que ces dernières sont capables de faire.
-- Des codes qui ont été minutieusement vérifiés et testés pour s'assurer qu'ils sont exécutables et corrects.
+- Certains code fait par l'IA ne marchent pas, car certaines lib ont été mis a jours apres 2021
 
 ## Comment utiliser les codes de ce référentiel ?
 
