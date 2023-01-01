@@ -10,8 +10,8 @@ Aucun prérequis n'est nécessaire pour utiliser ce programme. Il est écrit en 
 
 Pour utiliser ce programme, suivez les étapes suivantes :
 
-1. Ouvrez un terminal et accédez au répertoire où se trouve le fichier `generator.py`.
-2. Exécutez la commande `python generator.py`.
+1. Ouvrez un terminal et accédez au répertoire où se trouve le fichier `main.py`.
+2. Exécutez la commande `python main.py`.
 3. Suivez les instructions affichées à l'écran pour choisir la longueur et le thème du poème à générer.
 4. Le poème généré sera affiché à l'écran. Vous pouvez le copier et le coller où vous le souhaitez.
 
